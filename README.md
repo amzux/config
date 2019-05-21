@@ -1,0 +1,2 @@
+# config
+Amzux configurations

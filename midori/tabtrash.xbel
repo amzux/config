@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel>
+<bookmark href="file:///usr/share/doc/midori/faq.html">
+<title>midori:faq</title>
+<info>
+<metadata tabby-tstamp="1557996718" sorting="1024" tabby-id="1" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://desktop.telegram.org/">
+<title>about:blank</title>
+<info>
+<metadata tabby-tstamp="1557996721" sorting="3072" tabby-id="3"/>
+</info>
+</bookmark>
+<bookmark href="https://github.com/telegramdesktop/tdesktop">
+<title>GitHub - telegramdesktop/tdesktop: Telegram Desktop messaging app</title>
+<info>
+<metadata tabby-tstamp="1557996916" tabby-id="5" icon="https://github.githubassets.com/favicon.ico" sorting="2048" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://github.com/telegramdesktop/tdesktop/tree/dev/Telegram">
+<title>tdesktop/Telegram at dev · telegramdesktop/tdesktop · GitHub</title>
+<info>
+<metadata tabby-tstamp="1557996931" tabby-id="6" icon="https://github.githubassets.com/favicon.ico" sorting="1536" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://desktop.telegram.org/">
+<title>Midori can&apos;t find the page you&apos;re looking for</title>
+<info>
+<metadata tabby-id="4" sorting="1024" icon="https://telegram.org/favicon.ico?3" tabby-tstamp="1557996967" mime-type="text/html"/>
+</info>
+</bookmark>
+</xbel>

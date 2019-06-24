@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Logs
+GenericName=Log Viewer
+Comment=View detailed event logs for the system
+Keywords=log;journal;debug;error;
+Type=Application
+Categories=GTK;GNOME;System;Monitor;Utility;X-GNOME-Utilities;
+Exec=gnome-logs
+Icon=gnome-logs
+Terminal=false
+StartupNotify=true
+DBusActivatable=true
+X-XFCE-Source=file:///usr/share/applications/org.gnome.Logs.desktop

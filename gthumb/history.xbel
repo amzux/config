@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr/share/wallpapers/wallpapers" added="2019-06-23T10:07:10Z" modified="2019-06-23T10:07:10Z" visited="2019-06-23T10:07:10.919226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2019-06-23T10:07:10Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://[usb:005,013]/Internal%20shared%20storage/Pictures/LightX" added="2019-06-23T10:07:10Z" modified="2019-06-23T10:07:10Z" visited="2019-06-23T10:07:10.919359Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2019-06-23T10:07:10Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amzker/amzker/Amzux-Live/backgrounds" added="2019-06-23T10:07:10Z" modified="2019-06-23T10:07:10Z" visited="2019-06-23T10:07:10.919375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2019-06-23T10:07:10Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

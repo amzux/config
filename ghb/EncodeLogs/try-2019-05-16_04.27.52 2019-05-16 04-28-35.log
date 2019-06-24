@@ -1,0 +1,39 @@
+Handbrake Version: 0.10.5 (2017031700)
+[04:28:35] CPU: Intel(R) Core(TM)2 Duo CPU     E4500  @ 2.20GHz
+[04:28:35]  - logical processor count: 2
+[04:28:35] OpenCL: library not available
+[04:28:35] hb_scan: path=/home/amzker/Desktop/Project/try-2019-05-16_04.27.52.mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:274: failed opening UDF image /home/amzker/Desktop/Project/try-2019-05-16_04.27.52.mkv
+disc.c:352: error opening file BDMV/index.bdmv
+disc.c:352: error opening file BDMV/BACKUP/index.bdmv
+[04:28:35] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[04:28:35] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/amzker/Desktop/Project/try-2019-05-16_04.27.52.mkv':
+  Metadata:
+    ENCODER         : Lavf57.56.101
+  Duration: 00:00:14.08, start: 0.000000, bitrate: 21149 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x1024 [SAR 1:1 DAR 5:4], 1k fps, 30 tbr, 1k tbn, 60 tbc (default)
+    Metadata:
+      DURATION        : 00:00:14.000000000
+    Stream #0:1: Audio: pcm_s16le, 48000 Hz, 2 channels, s16, 1536 kb/s (default)
+    Metadata:
+      DURATION        : 00:00:14.080000000
+[04:28:35] scan: decoding previews for title 1
+[04:28:37] scan: 10 previews, 1280x1024, 30.000 fps, autocrop = 0/0/0/0, aspect 1.25:1, PAR 1:1
+[04:28:37] scan: removing audio 0x1 because no bitrate found
+[04:28:37] libhb: scan thread found 1 valid title(s)
+[04:28:39] gtkgui: Preset: Regular->Normal

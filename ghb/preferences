@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Preferences</key>
+	<dict>
+		<key>AddCC</key>
+		<false />
+		<key>AutoScan</key>
+		<false />
+		<key>EncodeLogLocation</key>
+		<false />
+		<key>ExportDirectory</key>
+		<string>/home/amzker/Desktop</string>
+		<key>HideAdvancedVideoSettings</key>
+		<true />
+		<key>LogLongevity</key>
+		<string>immortal</string>
+		<key>LoggingLevel</key>
+		<string>1</string>
+		<key>MinTitleDuration</key>
+		<integer>10</integer>
+		<key>PreferredLanguage</key>
+		<string>und</string>
+		<key>RemoveFinishedJobs</key>
+		<false />
+		<key>SrtDir</key>
+		<string>/home/amzker</string>
+		<key>UseM4v</key>
+		<true />
+		<key>VideoQualityGranularity</key>
+		<string>1</string>
+		<key>WhenComplete</key>
+		<string>notify</string>
+		<key>allow_tweaks</key>
+		<false />
+		<key>auto_name</key>
+		<true />
+		<key>auto_name_template</key>
+		<string>{source}</string>
+		<key>check_updates</key>
+		<string>weekly</string>
+		<key>default_source</key>
+		<string>/dev/dvd</string>
+		<key>destination_dir</key>
+		<string>/home/amzker</string>
+		<key>hbfd</key>
+		<false />
+		<key>hbfd_feature</key>
+		<false />
+		<key>last_update_check</key>
+		<integer>0</integer>
+		<key>live_duration</key>
+		<integer>15</integer>
+		<key>preview_count</key>
+		<integer>10</integer>
+		<key>preview_fullscreen</key>
+		<false />
+		<key>preview_show_crop</key>
+		<false />
+		<key>preview_x</key>
+		<integer>-1</integer>
+		<key>preview_y</key>
+		<integer>-1</integer>
+		<key>reduce_hd_preview</key>
+		<true />
+		<key>show_presets</key>
+		<true />
+		<key>update_skip_version</key>
+		<integer>0</integer>
+		<key>use_dvdnav</key>
+		<true />
+		<key>version</key>
+		<string>0.1</string>
+		<key>window_height</key>
+		<integer>586</integer>
+		<key>window_width</key>
+		<integer>1095</integer>
+	</dict>
+</dict>
+</plist>

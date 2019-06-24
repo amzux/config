@@ -1,0 +1,16 @@
+[settings]
+default-encoding=ISO-8859-1
+enable-developer-extras=true
+enable-site-specific-quirks=true
+enable-javascript=true
+default-charset=ISO-8859-1
+last-window-width=752
+last-window-height=602
+last-panel-position=256
+last-panel-page=1
+location-entry-search=https://duckduckgo.com/?q=%s
+toolbar-items=TabNew,Back,NextForward,ReloadStop,BookmarkAdd,Location,Search,Trash,CompactMenu
+homepage=file:///usr/share/doc/midori/faq.html
+tabhome=about:dial
+download-folder=/home/amzker/Downloads
+user-agent=Mozilla/5.0 (X11; Linux) AppleWebKit/538.15 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/538.15 Midori/0.5

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Tweak Tool
+Comment=Tweak advanced GNOME 3 settings
+Icon=gnome-tweak-tool
+Exec=gnome-tweak-tool
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Settings;
+Keywords=Settings;Advanced;Preferences;Extensions;Fonts;Theme;XKB;Keyboard;Typing;
+OnlyShowIn=GNOME;Unity;Pantheon;
+X-XFCE-Source=file:///usr/share/applications/gnome-tweak-tool.desktop
